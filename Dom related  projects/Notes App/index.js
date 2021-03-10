@@ -1,3 +1,6 @@
+//Made by Siddhant Kothari credits Code with harry 
+//here is a link to his the YT video I used https://youtu.be/kwgNsNhYcHo 
+
 //console.log("Welcome to the Js");
 showNotes();
 
