@@ -74,3 +74,7 @@ search.addEventListener("input",function(event){
         }
     });
 });
+
+/*
+Will add some new features soon!
+*/
